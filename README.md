@@ -55,7 +55,7 @@ chmod +x bug_bounty_script.sh
 
 4. **Run the script:**
 
-./bug_bounty_script.sh
+./script.sh.x.c
 
 ## Output Files
 
