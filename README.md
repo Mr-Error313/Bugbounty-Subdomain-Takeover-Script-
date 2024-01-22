@@ -54,5 +54,6 @@ httpx
 Download (github.com/projectdiscovery/httpx/cmd/httpx@latest)
 
 Subzy
-Download (github.com/LukaSikic/subzy@latest)
+
+Download(https://github.com/PentestPad/subzy)
 
