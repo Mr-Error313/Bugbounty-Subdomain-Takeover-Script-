@@ -1,6 +1,7 @@
 # Bugbounty-Subdomain-Takeover-Script-
 
 ![Mr.Error Bug Bounty Script](script_banner.png)
+![Screenshot at 2024-01-22 03-58-36](https://github.com/Mr-Error313/Bugbounty-Subdomain-Takeover-Script-/assets/146853237/e70ed3f7-a3b0-45f8-aaba-1c1307dcb55a)
 
 ## Overview
 
@@ -51,7 +52,7 @@ cd bug-bounty-subdomain-takeover-script
 
 3. **Make the script executable:**
 
-chmod +x bug_bounty_script.sh
+chmod +x script.sh.x.c
 
 4. **Run the script:**
 
