@@ -91,5 +91,8 @@ Feel free to customize the script to suit your needs, add new features, or modif
 This project is licensed under the MIT License.
 
 ## Author
-Mr.Error
+Mr-Error313
+
+## Disclaimer
+This script is provided for educational and testing purposes only. Use it responsibly and ensure compliance with applicable laws and regulations.
 
