@@ -8,11 +8,36 @@ The Bug Bounty Subdomain Takeover Script is a powerful Bash tool meticulously cr
 
 ## Features
 
-- **Automated Workflow:** Streamlines subdomain enumeration, live subdomain checking, and vulnerability assessment.
-- **Automatic File Creation:** Generates essential TXT files to store subdomains and results.
-- **Tool Chaining:** Automatically passes output files from one tool to the next for a seamless workflow.
-- **Informative Outputs:** Clearly structured outputs, including subdomains file, live subdomains file, and Subzy results file.
-- **User Prompt:** Guides users through the process with a user-friendly prompt for the target website.
+Here are interesting features of the Bug Bounty Subdomain Takeover Script:
+
+1. **Automated Workflow:**
+   - The script orchestrates a seamless workflow, automating subdomain enumeration, live subdomain checking, and vulnerability assessment, saving valuable time for bug bounty hunters.
+
+2. **Custom Header Display:**
+   - Upon execution, the script presents a visually appealing custom header featuring the name "Mr.Error," enhancing the script's professional appearance.
+
+3. **Automatic File Creation:**
+   - The script intelligently generates necessary TXT files to store subdomains and results, eliminating manual file creation and streamlining the data storage process.
+
+4. **Tool Chaining:**
+   - Implements tool chaining to automatically pass output files from one tool to the next, creating a continuous and efficient subdomain takeover workflow.
+
+5. **User-Friendly Prompt:**
+   - Guides users through the process with a user-friendly prompt, making it accessible even for individuals with limited experience in bug bounty hunting.
+
+6. **Informative Outputs:**
+   - Provides structured and informative outputs, including dedicated files for subdomains, live subdomains, and Subzy results, enhancing clarity and organization.
+
+7. **Dynamic Subdomain File Naming:**
+   - Dynamically generates file names based on the domain name, ensuring clarity and preventing potential naming conflicts when working with multiple targets.
+
+8. **Dependency Integration:**
+   - Utilizes popular and reliable tools such as Subfinder, httpx, and Subzy, ensuring the script leverages well-established solutions for efficient subdomain reconnaissance.
+
+9. **Flexible Customization:**
+   - Encourages users to customize the script according to their needs, allowing for the addition of new features, modification of existing functionalities, and fostering community contributions.
+
+These features collectively contribute to making the Bug Bounty Subdomain Takeover Script a versatile, user-friendly, and professional tool for bug bounty hunters.
 
 ## Usage
 
