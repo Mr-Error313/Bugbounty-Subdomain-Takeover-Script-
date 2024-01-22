@@ -1,1 +1,22 @@
 # Bugbounty-Subdomain-Takeover-Script-
+
+![Mr.Error Bug Bounty Script](script_banner.png)
+
+## Overview
+
+The Bug Bounty Subdomain Takeover Script is a powerful Bash tool meticulously crafted by Mr.Error to enhance the efficiency of bug bounty hunters in identifying subdomain takeover vulnerabilities. This script seamlessly integrates popular tools such as Subfinder, httpx, and Subzy to automate the entire subdomain reconnaissance and vulnerability assessment process.
+
+## Features
+
+- **Automated Workflow:** Streamlines subdomain enumeration, live subdomain checking, and vulnerability assessment.
+- **Automatic File Creation:** Generates essential TXT files to store subdomains and results.
+- **Tool Chaining:** Automatically passes output files from one tool to the next for a seamless workflow.
+- **Informative Outputs:** Clearly structured outputs, including subdomains file, live subdomains file, and Subzy results file.
+- **User Prompt:** Guides users through the process with a user-friendly prompt for the target website.
+
+## Usage
+
+1. **Clone the Repository:**
+   ```bash
+   git clone <repository_url>
+   cd bug-bounty-subdomain-takeover-script
