@@ -1,0 +1,1 @@
+# Bugbounty-Subdomain-Takeover-Script-
