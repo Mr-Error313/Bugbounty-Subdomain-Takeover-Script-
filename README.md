@@ -13,7 +13,7 @@ Here are interesting features of the Bug Bounty Subdomain Takeover Script:
 1. **Automated Workflow:**
    - The script orchestrates a seamless workflow, automating subdomain enumeration, live subdomain checking, and vulnerability assessment, saving valuable time for bug bounty hunters.
 
-2. **Dynamic Output File Naming:*"
+2. **Dynamic Output File Naming:**
    - The script intelligently creates output files dynamically using the name of the target website. This ensures that every time you run the script on a new website, the resulting subdomains file, live subdomains file, and Subzy results file are uniquely named based on the target site. This feature facilitates easy identification and organization of results, allowing for efficient management when working with multiple targets.
 
 3. **Automatic File Creation:**
