@@ -48,11 +48,11 @@ domain_subzy_results.txt
 These three tools must be need to run these Bugbounty Subdomain Takeover Script without these Bugbounty Subdomain Takeover Script can't be run:
 
 Subfinder
-Download ()
+Download (go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest)
 
 httpx
-Download ()
+Download (go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest)
 
 Subzy
-Download ()
+Download (go install -v github.com/LukaSikic/subzy@latest)
 
