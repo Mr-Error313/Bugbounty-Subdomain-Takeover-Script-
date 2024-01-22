@@ -84,3 +84,12 @@ These three tools must be need to run these Bugbounty Subdomain Takeover Script 
 
 (https://github.com/PentestPad/subzy)
 
+**Customization:**
+Feel free to customize the script to suit your needs, add new features, or modify existing functionalities. Contributions are welcome.
+
+**License:**
+This project is licensed under the MIT License.
+
+**Author:**
+Mr.Error
+
