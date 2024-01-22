@@ -17,13 +17,13 @@ The Bug Bounty Subdomain Takeover Script is a powerful Bash tool meticulously cr
 ## Usage
 
 1. **Clone the Repository:**
-git clone <repository_url>
+ git clone https://github.com/Mr-Error313/Bugbounty-Subdomain-Takeover-Script-.git
 
 2. **Go to Directory:**
-cd bug-bounty-subdomain-takeover-script
+ cd bug-bounty-subdomain-takeover-script
 
 3. **Make the script executable:**
-chmod +x bug_bounty_script.sh
+ chmod +x bug_bounty_script.sh
 
 4. **Run the script:**
 ./bug_bounty_script.sh
