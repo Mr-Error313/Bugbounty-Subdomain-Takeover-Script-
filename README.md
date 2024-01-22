@@ -31,3 +31,21 @@ chmod +x bug_bounty_script.sh
 4. **Run the script:**
 
 ./bug_bounty_script.sh
+
+## Output Files
+
+**Subdomains File:**
+domain_subdomains.txt
+**Live Subdomains File:** domain_alive_subdomains.txt
+**Subzy Results File:** domain_subzy_results.txt
+
+## Requirements
+
+These three tools must be need to run these Bugbounty Subdomain Takeover Script without these Bugbounty Subdomain Takeover Script can't be run:
+Subfinder
+Download ()
+httpx
+Download ()
+Subzy
+Download ()
+
