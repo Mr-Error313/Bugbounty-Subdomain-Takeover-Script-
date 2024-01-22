@@ -13,8 +13,8 @@ Here are interesting features of the Bug Bounty Subdomain Takeover Script:
 1. **Automated Workflow:**
    - The script orchestrates a seamless workflow, automating subdomain enumeration, live subdomain checking, and vulnerability assessment, saving valuable time for bug bounty hunters.
 
-2. **Custom Header Display:**
-   - Upon execution, the script presents a visually appealing custom header featuring the name "Mr.Error," enhancing the script's professional appearance.
+2. **Dynamic Output File Naming:*"
+   - The script intelligently creates output files dynamically using the name of the target website. This ensures that every time you run the script on a new website, the resulting subdomains file, live subdomains file, and Subzy results file are uniquely named based on the target site. This feature facilitates easy identification and organization of results, allowing for efficient management when working with multiple targets.
 
 3. **Automatic File Creation:**
    - The script intelligently generates necessary TXT files to store subdomains and results, eliminating manual file creation and streamlining the data storage process.
@@ -73,13 +73,14 @@ domain_subzy_results.txt
 These three tools must be need to run these Bugbounty Subdomain Takeover Script without these Bugbounty Subdomain Takeover Script can't be run:
 
 **Subfinder:**
-Download:(https://github.com/projectdiscovery/subfinder)
+
+(https://github.com/projectdiscovery/subfinder)
 
 **httpx:**
 
-Download:(https://github.com/projectdiscovery/httpx)
+(https://github.com/projectdiscovery/httpx)
 
 **Subzy:**
 
-Download:(https://github.com/PentestPad/subzy)
+(https://github.com/PentestPad/subzy)
 
